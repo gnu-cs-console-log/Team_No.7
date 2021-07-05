@@ -1,0 +1,19 @@
+/* body{background-image : url('img/해리포터.jpg'); background-repeat: no-repeat; background-size: } */
+
+Top_Menu .left > ul{list-style: none;}
+Top_Menu .left > ul > li{float:left; margin-right: 20px; color: white;}
+
+Top_Menu .right > ul{list-style: none;}
+Top_Menu .right > ul > li{float:right; margin-right: 20px; color: white;}
+
+Continue_Menu .continue1 > p{font-size: 25px; margin-left : 40px; color:#ff0060;}
+Continue_Menu .continue2 > ul{list-style: none; margin-top : 10px; color: white;}
+Continue_Menu .continue2 > ul > li{float:left; margin-right: 20px; color: white;}
+
+Thumb_Menu .thumb1 > p{font-size: 25px; margin-left : 40px; color:#ff0060}
+Thumb_Menu .thumb2 > ul{list-style: none; margin-top : 10px; color: white;}
+Thumb_Menu .thumb2 > ul > li{float:left; margin-right: 20px; color: white;}
+
+Hot_Menu .hot1 > p{font-size: 25px; margin-left : 40px; color:#ff0060}
+Hot_Menu .hot2 > ul{list-style: none; margin-top : 10px; color: white;}
+Hot_Menu .hot2 > ul > li{float:left; margin-right: 20px; color: white;}
