@@ -1,0 +1,18 @@
+
+Top_Menu .left > ul{ list-style : none;}
+Top_Menu .left > ul > li{ float:left; margin-right: 20px; color : white;}
+
+Top_Menu .right > ul{ list-style : none; }
+Top_Menu .right > ul > li{ float:right; margin-right: 20px; color : white;}
+
+HarryPotter_Menu .Title{ font-size:20px; margin-left : 20px; color : white;}
+HarryPotter_Menu .List > ul{ list-style : none; }
+HarryPotter_Menu .List > ul > li{ float:left; margin-right: 20px; text-align: center; color : white;}
+
+Avengers_Menu .Title{ font-size:20px; margin-left : 20px; color : white;}
+Avengers_Menu .List > ul{ list-style : none; }
+Avengers_Menu .List > ul > li{ float:left; margin-right: 20px; text-align: center; color : white;}
+
+WalkingDead_Menu .Title{ font-size:20px; margin-left : 20px; color : white;}
+WalkingDead_Menu .List > ul{ list-style : none; }
+WalkingDead_Menu .List > ul > li{ float:left; margin-right: 20px; text-align: center; color : white;}
