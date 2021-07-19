@@ -1,0 +1,72 @@
+/* ===== Header ===== */
+.Header {
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  text-align: left;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
+  color: #ff0060;
+}
+
+/* ===== Nav ===== */
+.Nav {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 20px;
+  font-size: 18px;
+  color: white;
+}
+
+.leftNav > li {
+  list-style: none;
+  margin-right: 18px;
+  float: left;
+}
+
+.rightNav > li {
+  list-style: none;
+  margin-right: 20px;
+  float: right;
+}
+
+/* ===== Main ===== */
+.Main {
+  display: grid;
+  color: #ff0060;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.MainImg {
+  display: grid;
+  margin-left: 20px;
+}
+
+.PlayList {
+  display: grid;
+  margin-top: 25px;
+  font-size: 25px;
+}
+
+.MovieList {
+  display: grid;
+  margin-bottom: 30px;
+  grid-template-columns: repeat(5, 1fr);
+  font-size: 16px;
+  color: white;
+}
+
+.ImgList > img {
+  transform: scale(1);
+  transition: 0.2s;
+}
+
+/* img에 마우스 오버됐을 때 */
+.ImgList:hover img {
+  transform: scale(1.08);
+}
