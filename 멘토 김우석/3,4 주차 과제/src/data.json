@@ -1,0 +1,101 @@
+{
+  "data": {
+    "Lists": [
+      {
+        "id": 0,
+        "title": "Harry Potter",
+        "list": [
+          {
+            "id": 0,
+            "name": "Harry Potter",
+            "img": "img/Harry.jpg"
+          },
+          {
+            "id": 1,
+            "name": "Hermione Granger",
+            "img": "img/Hermione.jpeg"
+          },
+          {
+            "id": 2,
+            "name": "Ron Weasley",
+            "img": "img/Ron.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Lucius Malfoy",
+            "img": "img/Malfoy.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Albus Dumbledore",
+            "img": "img/Dumbledore.jpg"
+          }
+        ]
+      },
+
+      {
+        "id": 1,
+        "title": "Avengers",
+        "list": [
+          {
+            "id": 0,
+            "name": "Iron Man",
+            "img": "img/Ironman.jpg"
+          },
+          {
+            "id": 1,
+            "name": "Captain America",
+            "img": "img/Captain.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Thor",
+            "img": "img/Thor.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Hulk",
+            "img": "img/Hulk.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Dr.Strange",
+            "img": "img/Dr.Strange.jpg"
+          }
+        ]
+      },
+
+      {
+        "id": 2,
+        "title": "The Walking Dead",
+        "list": [
+          {
+            "id": 0,
+            "name": "Rick",
+            "img": "img/Rick.jpg"
+          },
+          {
+            "id": 1,
+            "name": "Darly",
+            "img": "img/Daryl.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Glenn",
+            "img": "img/Glenn.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Michonne",
+            "img": "img/Michonne.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Negan",
+            "img": "img/Negan.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+.App {
+  background-color: black;
+}
+.left > ul {
+  list-style: none;
+}
+.left > ul > li {
+  float: left;
+  margin-right: 20px;
+  color: tomato;
+}
+.right > ul {
+  list-style: none;
+}
+.right > ul > li {
+  float: right;
+  margin-right: 20px;
+  color: tomato;
+}
+.title {
+  display: grid;
+  font-size: 20px;
+  margin-left: 20px;
+  color: blue;
+}
+
+.nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 10px;
+}
+.main {
+  display: grid;
+  color: White;
+  font-size: 25px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.CharList {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  margin: 5px 10px 5px 10px;
+  font-size: 18px;
+  text-align: center;
+  color: aqua;
+}
+
+.ImgList > img {
+  transform: scale(1);
+  transition: 0.3s;
+}
+.ImgList:hover img {
+  transform: scale(1.2);
+}
